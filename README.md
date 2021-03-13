@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ReactJS ecosystem (Redux, Mobx, UI libs), VueJS and OFC Typescript
 - 📫 How to reach me: \
   *Email*: e.e.babintsev@yandex.ru \
-  *Telegram*: https://t.me/egor_babintsev
+  *Telegram*: @egor_babintsev
 
 <!---
 egorbabintcev/egorbabintcev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
