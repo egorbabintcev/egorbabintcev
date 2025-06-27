@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @egorbabintcev
-- 👀 I’m interested in Frontend development and engineering, web design and analytics (also cycling :yum:)
-- 🌱 I’m currently learning VueJS ecosystem (VueX, Vue Router, UI libs) and OFC Typescript
+- 👷 Frontend Tech Lead (Architecture/Standards/CI/Innersource libs)
+- 🌱 Currently learning backend development with Go lang stack
 - 📫 How to reach me: \
   *Email*: e.e.babintsev@yandex.ru \
   *Telegram*: @egor_babintsev
